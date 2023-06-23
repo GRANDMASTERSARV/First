@@ -1,1 +1,1 @@
-# First
+print('Hello world')
